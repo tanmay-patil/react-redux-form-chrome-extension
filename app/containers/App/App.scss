@@ -1,0 +1,11 @@
+$popup_height: 180px;
+$popup_width: 350px;
+body {
+    margin: 0px;
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: white;
+    .app {
+        height: $popup_height;
+        width: $popup_width;
+    }
+}
